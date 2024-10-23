@@ -2,7 +2,6 @@
 
 - 🔭 Programador Fullstack
 - 🌱 Atualmente estudando Angular e C#
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/Kaua-Cavalcante">
